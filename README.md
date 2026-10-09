@@ -10,7 +10,7 @@ Bienvenido(a) a mi portafolio. En este repositorio concentro mis proyectos más 
 
 ###  1. Web Scraping y Comparativa de Ofertas (Liverpool)
 - **Documento:** [`Informe - Proyecto Audifonos Liverpool (1).pdf`]
-- **Código y Carpetas:** [`01_Web_Scraping_Liverpool`](./01_Web_Scraping_Liverpool/)
+- **Código y Carpetas:** [`proyecto_fin_(1).ipynb`]
 - **Técnicas:** Web Scraping (Selenium), Procesamiento de Datos (Pandas), Visualización (Matplotlib).
 - **Descripción:** Extracción automatizada de más de 1,800 productos en tres periodos promocionales (Normal, Black Friday y Venta Nocturna) para evaluar la veracidad de los descuentos y detectar aumentos previos de precio.
 
