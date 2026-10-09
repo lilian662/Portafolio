@@ -2,7 +2,7 @@
 Portafolio de proyectos academicos 
 #  Portafolio de Proyectos Académicos y Profesionales
 
-Bienvenido/a a mi portafolio. En este repositorio concentro mis proyectos más relevantes enfocados en **Web Scraping, Econometría, Simulación Estocástica y Análisis de Datos**.
+Bienvenido(a) a mi portafolio. En este repositorio concentro mis proyectos más relevantes enfocados en **Web Scraping, Econometría, Simulación Estocástica y Análisis de Datos**.
 
 ---
 
